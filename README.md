@@ -4,8 +4,6 @@
   - 🕵I'm looking to collaborate on AI/ML/Data Science models
   - 📫How to reach me: navaneethgajula17@gmail.com
 
-<tr>Socials</tr>
-<tr>Instagram</tr>
 <!--
 **Navaneeth-Gajula/Navaneeth-Gajula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
