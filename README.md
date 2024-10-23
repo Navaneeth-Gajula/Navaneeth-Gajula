@@ -1,6 +1,6 @@
 ### 🙋‍♂️Hi, I'm @NavaneethGajula👋
   - 🖥I'm interested in Competitive Programming, Web Development
-  - 🌱I'm currently learning Version control:Git
+  - 🌱I'm currently learning Version control: Git
   - 🕵I'm looking to collaborate on AI/ML/Data Science models
   - 📫How to reach me: navaneethgajula17@gmail.com
 
